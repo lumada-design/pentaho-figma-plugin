@@ -1,0 +1,27 @@
+# os
+.DS_Store
+
+# node
+.npmrc
+
+# build
+dist
+
+# env
+/**/.env*.local
+/**/.env
+
+# coverage
+coverage/
+
+# logs
+*.log
+
+# act
+.secrets
+
+# vite
+.tmp
+
+# dependencies
+node_modules
