@@ -2,6 +2,9 @@
 
 A Figma plugin to sync Pentaho Theme between UI Kit and Design System.
 
+https://github.com/user-attachments/assets/d0edf77c-7d13-4dba-bc92-2944581861ca
+
+
 ## Quick Start
 
 Install Dependencies
